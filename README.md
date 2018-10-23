@@ -2,10 +2,14 @@
 
 This is a project for self-assembly of the LED strip color music controller.
 
-Video of this controller is presented on YouTube.
+Video of this controller is presented on YouTube:
+
 https://www.youtube.com/watch?v=DBuPlFtg0Nw
+
 https://www.youtube.com/watch?v=5vanh8qdEC8
+
 https://www.youtube.com/watch?v=MFy6SZ60tzc
+
 
 1. Download the firmware to the microcontroller.
 2. Collect the scheme.
@@ -17,8 +21,11 @@ https://www.youtube.com/watch?v=MFy6SZ60tzc
 Enjoy your holiday.
 
 Video configuration run from the terminal program:
+
 https://www.youtube.com/watch?v=0W0cf8ENmME
+
 the same configuration from the Serial  Monitor Arduino IDE
+
 https://vk.com/club171670176?z=video-171670176_456239018%2Fvideos-171670176%2Fpl_-171670176_-2
 
 
