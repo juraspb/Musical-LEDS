@@ -20,13 +20,7 @@ https://www.youtube.com/watch?v=MFy6SZ60tzc
 
 Enjoy your holiday.
 
-Video configuration run from the terminal program:
+Welcome to this project group.
 
-https://www.youtube.com/watch?v=0W0cf8ENmME
-
-the same configuration from the Serial  Monitor Arduino IDE
-
-https://vk.com/club171670176?z=video-171670176_456239018%2Fvideos-171670176%2Fpl_-171670176_-2
-
-
+https://www.facebook.com/groups/336136297134996/
 
