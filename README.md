@@ -20,7 +20,11 @@ https://www.youtube.com/watch?v=MFy6SZ60tzc
 
 Enjoy your holiday.
 
-Welcome to this project group.
+The program for Android is available for download on Google Play:
+
+https://play.google.com/store/apps/details?id=ru.juraspb.cmu.bluetoothchat
+
+Welcome to this project group:
 
 https://www.facebook.com/groups/336136297134996/
 
