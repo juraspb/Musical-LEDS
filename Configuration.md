@@ -41,8 +41,6 @@ AT+T10..240 - Set tempo
 
 AT+C0[1] - 0 - disable CLAP, 1 - enable CLAP
 
-AT+F0..32 - Flow
-
 AT+W0..7,0..5,0..112 - Write subprogram,color number,new color
 
 
