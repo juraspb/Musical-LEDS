@@ -1,0 +1,54 @@
+Source:	F:\Projects II\CMU\SCH\stm32mc\stm32mc.sch
+Date:	15.10.2018 9:45:34
+Tool:	Eeschema (5.0.0)
+Component Count:	49
+Ref	Value	Part	Footprint	Description	Vendor
+C1	47.0uF	Device:CP	Capacitor_SMD:C_1210_3225Metric	Polarised capacitor	
+C2	0.1uF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C3	22pF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C4	22pF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C5	0.1uF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C6	47uF	Device:CP	Capacitor_SMD:C_1210_3225Metric	Polarised capacitor	
+C7	0.1uF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C8	1uF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C9	1uF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C10	1uF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C11	470nF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C12	0.1uF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C13	0.47uF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C14	2.2uF	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+D1	SPP-C	RF_Bluetooth_my:SPP-C	kicad_lib:SPP-C		
+J1	boot0	Connector_Generic:Conn_02x01	Connector_PinSocket_2.00mm:PinSocket_1x02_P2.00mm_Vertical	Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)	
+J2	Linear	Connector_Generic:Conn_01x04	Connector_Audio:Jack_3.5mm_PJ320D_Horizontal	Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J3	ISP	Connector:Conn_01x04_Male	Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical	Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J4	POWER	Connector_Generic:Conn_01x05	Connector_Phoenix_MC:PhoenixContact_MC_1,5_5-G-3.5_1x05_P3.50mm_Horizontal	Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J7	USB_B_Micro	Connector:USB_B_Micro	Connector_USB:USB_Micro-B_Molex_47346-0001	USB Micro Type B connector	
+MK1	Microphone	Device:Microphone	Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal	Microphone	
+R1	47K	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R2	100K	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R3	1K	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R4	1K	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R5	4K7	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R6	4K7	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R7	4K7	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R8	100	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R9	47K	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R10	1K5	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R11	22	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R12	22	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R13	100K	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R14	150K	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R15	2K2	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+SW1	btn1	Switch:SW_Push	Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx39-2LFS	Push button switch, generic, two pins	
+SW2	btn1	Switch:SW_Push	Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx39-2LFS	Push button switch, generic, two pins	
+SW3	btn1	Switch:SW_Push	Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx39-2LFS	Push button switch, generic, two pins	
+SW4	btn1	Switch:SW_Push	Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx39-2LFS	Push button switch, generic, two pins	
+SW5	btn1	Switch:SW_Push	Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx39-2LFS	Push button switch, generic, two pins	
+SW6	btn1	Switch:SW_Push	Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx39-2LFS	Push button switch, generic, two pins	
+SW7	btn1	Switch:SW_Push	Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx39-2LFS	Push button switch, generic, two pins	
+U1	AP1117-33	Regulator_Linear:AP1117-33	Package_TO_SOT_SMD:SOT-223-3_TabPin2	1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223	
+U2	STM32F103C8Tx	MCU_ST_STM32F1:STM32F103C8Tx	Package_QFP:LQFP-48_7x7mm_P0.5mm	ARM Cortex-M3 MCU, 64KB flash, 20KB RAM, 72MHz, 2-3.6V, 37 GPIO, LQFP-48	
+U3	AD8603	Amplifier_Operational:AD8603	Package_TO_SOT_SMD:TSOT-23-5	Precision Micropower, Low Noise CMOS, Rail-to-Rail Input/Output Operational Amplifier, TSOT-23-5	
+U4	74LVC1G125	74xGxx:74LVC1G125	Package_TO_SOT_SMD:SOT-23-5_HandSoldering	Single Buffer Gate Tri-State, Low-Voltage CMOS	
+U5	MAX9814	Amplifier_Audio:MAX9814	Package_DFN_QFN:DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm	Microphone Amplifier with AGC and Low-Noise Microphone Bias, TDFN-14	
+Y1	Crystal	Device:Crystal	Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm	Two pin crystal	
